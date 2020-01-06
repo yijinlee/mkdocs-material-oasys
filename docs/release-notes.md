@@ -64,6 +64,18 @@ pip show mkdocs-material
 
 ## Changelog
 
+### 4.6.0 <small>_ December 11, 2019</small>
+
+* Added support for [mkdocs-git-revision-date-localized-plugin][3]
+* Fixed invalid character in Google Fonts URL
+
+  [3]: https://github.com/timvink/mkdocs-git-revision-date-localized-plugin
+
+### 4.5.1 <small>_ December 2, 2019</small>
+
+* Added Thai translations
+* Fixed missing assets in GitHub release `.zip` and `.tar.gz`
+
 ### 4.5.0 <small>_ November 16, 2019</small>
 
 * Upgraded EmojiOne to Tweomji due to [licensing issues][1330]

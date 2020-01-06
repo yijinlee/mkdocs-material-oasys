@@ -75,7 +75,7 @@ extra:
     - type: twitter
       link: https://twitter.com/squidfunk
     - type: linkedin
-      link: https://linkedin.com/in/squidfunk
+      link: https://www.linkedin.com/in/squidfunk/
 
 # Extensions
 markdown_extensions:
@@ -120,6 +120,10 @@ nav:
     - Metadata: extensions/metadata.md
     - Permalinks: extensions/permalinks.md
     - PyMdown: extensions/pymdown.md
+  - Plugins:
+    - Minify HTML: plugins/minify-html.md
+    - Revision date: plugins/revision-date.md
+    - Search: plugins/search.md
   - Specimen: specimen.md
   - Customization: customization.md
   - Compliance with GDPR: compliance.md
